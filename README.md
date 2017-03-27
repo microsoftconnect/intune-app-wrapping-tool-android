@@ -1,4 +1,4 @@
-#Microsoft Intune App Wrapping Tool for Android
+# Microsoft Intune App Wrapping Tool for Android
 
 Version [1.0.1659.2](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/).
 
@@ -10,6 +10,6 @@ Before you install and use Microsoft Intune App Wrapping Tool for Android you mu
 * Review the [Microsoft License Terms for Microsoft Intune App Wrapping Tool for Android](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/blob/master/license.pdf)
 * Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune App Wrapping Tool for Android you agree to such license terms. If you do not accept them, do not use the software.
 
-For instructions on using the Microsoft Intune App Wrapping Tool for Android, please see the Android App Wrapping Tool [documentation](https://docs.microsoft.com/en-us/intune/deploy-use/prepare-android-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool).
+For instructions on using the Microsoft Intune App Wrapping Tool for Android, please see [Prepare Android apps for mobile application management with the Intune App Wrapping Tool](https://docs.microsoft.com/en-us/intune/deploy-use/prepare-android-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool).
 
-For instructions on using the Azure Portal to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see the [this topic](https://docs.microsoft.com/en-us/intune/deploy-use/protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune) in the Intune documentation.
+For instructions on using the Azure Portal to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see the [Protect line-of-business apps and data on devices not enrolled in Microsoft Intune](https://docs.microsoft.com/en-us/intune/deploy-use/protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune) in the Intune documentation.
