@@ -1,6 +1,6 @@
 # Microsoft Intune App Wrapping Tool for Android
 
-Version [1.02022.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/).
+Version [1.0.2022.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/).
 
 See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/) for more information.
 
