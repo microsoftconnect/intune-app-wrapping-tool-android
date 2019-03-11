@@ -1,6 +1,6 @@
 # Microsoft Intune App Wrapping Tool for Android
 
-Version [1.0.2380.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/).
+Version [1.0.2501.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/).
 
 See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/) for more information.
 
@@ -9,7 +9,7 @@ See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-a
 Use the Microsoft Intune App Wrapping Tool for Android to modify the behavior of your existing line-of-business (LOB) apps on Android. You will then be able to manage certain app features using Intune without requiring code changes to the original application.
 
 Before you install and use Microsoft Intune App Wrapping Tool for Android you must:
-* Review the [Microsoft License Terms for Microsoft Intune App Wrapping Tool for Android](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/blob/master/Microsoft%20Intune%20App%20Wrapping%20Tool%20for%20Android%20end-user%20license.pdf) Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune App Wrapping Tool for Android, you agree to such license terms. If you do not accept them, do not use the software.
+* Review the [Microsoft License Terms for Microsoft Intune App Wrapping Tool for Android](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/blob/master/Microsoft%20Intune%20App%20Wrapping%20Tool%20for%20Android%20end-user%20license.pdf). Print and retain a copy of the license terms for your records. By downloading and using Microsoft Intune App Wrapping Tool for Android, you agree to such license terms. If you do not accept them, do not use the software.
 * Review the [Microsoft Intune Privacy Statement](https://docs.microsoft.com/legal/intune/microsoft-intune-privacy-statement) for information on the privacy policy of the Intune App Wrapping Tool for Android.
 
 For instructions on using the Microsoft Intune App Wrapping Tool for Android, please see [Prepare Android apps for mobile application management with the Intune App Wrapping Tool](https://docs.microsoft.com/intune/deploy-use/prepare-android-apps-for-mobile-application-management-with-the-microsoft-intune-app-wrapping-tool).
