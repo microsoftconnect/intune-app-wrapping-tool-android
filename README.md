@@ -14,4 +14,4 @@ Before you install and use Microsoft Intune App Wrapping Tool for Android you mu
 
 For instructions on using the Microsoft Intune App Wrapping Tool for Android, please see [Prepare Android apps for mobile application management with the Intune App Wrapping Tool](https://docs.microsoft.com/en-us/intune/developer/app-wrapper-prepare-android).
 
-For instructions on using the Azure Portal to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see the [Protect line-of-business apps and data on devices not enrolled in Microsoft Intune](https://docs.microsoft.com/intune/deploy-use/protect-line-of-business-apps-and-data-on-devices-not-enrolled-in-microsoft-intune) in the Intune documentation.
+For instructions on using the Endpoint Manager to author and deploy Intune MAM Policy to MAM apps for devices not MDM-enrolled with Intune, please see the [Add app configuration policies for managed apps without device enrollment](https://docs.microsoft.com/mem/intune/apps/app-configuration-policies-managed-app) in the Intune documentation.
