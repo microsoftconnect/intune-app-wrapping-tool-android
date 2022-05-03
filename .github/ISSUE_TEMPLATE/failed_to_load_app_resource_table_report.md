@@ -1,7 +1,7 @@
 ---
 name: App Resource Table Failure
-about: Create a report regarding a wrapping failure due to the 'Error: "Failed to load app resource table."' message.
-title: '[App Resource Table Failure] TODO'
+about: Create a report regarding a wrapping failure due to the "Failed to load app resource table." error message.
+title: "[App Resource Table Failure] TODO"
 labels: ''
 assignees: ''
 
