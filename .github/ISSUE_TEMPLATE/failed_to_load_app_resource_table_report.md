@@ -11,16 +11,17 @@ assignees: ''
 
 ### Details
 
-1. **App Wrapper Version:** -
-2. **Operating System (Mac, Linux, Windows) and Version** -
-3. **Java Version** -
-4. **Development Platform (Java, Xamarin, Cordova, React)** -
+1. **App Wrapper Version:**:
+2. **Operating System (Mac, Linux, Windows) and Version**:
+3. **Java Version**:
+4. **Development Platform (Java, Xamarin, Cordova, React)**:
+5. **`build-tools` Version**:
 
 ### Stack Trace for Building the App Resource Table
 
 ``` log
 INF Building resources...
-[TODO - Insert this section from your ]
+[TODO - Insert this section from your logs.]
 ERR Failed to package app.
 ```
 
@@ -31,6 +32,11 @@ Please attach the complete log contents from the wrapping attempt.
 ### APK
 
 If this APK can be freely shared, please upload/attach a link to it.
+
+### Updated Libraries
+
+If your app includes updated libraries, please list them here:
+- NA
 
 ## Questions to Ask Before Submission
 
