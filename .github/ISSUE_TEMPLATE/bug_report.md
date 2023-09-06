@@ -9,7 +9,7 @@ assignees: ''
 
 **Questions to Ask Before Submission**
 1. Does you app launch successfully without wrapping?
-2. Have you reviewed the [prerequisites](https://learn.microsoft.com/en-us/mem/intune/developer/app-wrapper-prepare-android#fulfill-the-prerequisites-for-using-the-app-wrapping-tool) for App Wrapping?
+2. Have you reviewed the [prerequisites](https://learn.microsoft.com/mem/intune/developer/app-wrapper-prepare-android#fulfill-the-prerequisites-for-using-the-app-wrapping-tool) for App Wrapping?
 3. Does your issue have a solution in the [Troubleshooting Guide?](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/wiki/Troubleshooting-the-App-Wrapper)
 4. Have you checked the [Microsoft Intune App SDK for Android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android) repository for similar issues?
 5. Are you using the latest version of the App Wrapper?
