@@ -1,10 +1,10 @@
 # Microsoft Intune App Wrapping Tool for Android
 
-Version [1.0.3935.1](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/)
+Version [1.0.4191.6](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/)
 
 See [release notes](https://github.com/msintuneappsdk/intune-app-wrapping-tool-android/releases/) for more information.  GitHub users can receive email notifications for new releases to this repo by clicking on **Releases only** from the "Watch" drop-down menu in the upper right-hand corner.
 
-> This version of the wrapping tool supports targeting Android 13 (API 33) and lower.
+> This version of the wrapping tool supports targeting Android 14 (API 34) and lower.
 
 Use the Microsoft Intune App Wrapping Tool for Android to modify the behavior of your existing line-of-business (LOB) apps on Android. You will then be able to manage certain app features using Intune without requiring code changes to the original application.
 
